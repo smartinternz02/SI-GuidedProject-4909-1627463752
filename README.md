@@ -1,4 +1,4 @@
-                                               Predicting Co2 Emission In Vehicles 
+                                          Predicting Co2 Emission In Vehicles 
                                               
                                               
   Project Description
